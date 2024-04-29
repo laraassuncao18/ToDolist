@@ -12,7 +12,9 @@
 * google
 
 ## 🦋autores:
-[Lara](https://github.com/laraassuncao18)
-[Leo](https://github.com/LeonardoRochaMarista)
-[André Moreira - Desenvolvedor do Código](https://github.com/laraassuncao18)
+* [Lara](https://github.com/laraassuncao18)
+
+* [Leo](https://github.com/LeonardoRochaMarista)
+
+* [André Moreira - Desenvolvedor do Código](https://github.com/laraassuncao18)
 
